@@ -8,7 +8,7 @@ Olá! Meu nome é **Brenda**, tenho **18 anos** e atualmente estou construindo m
 
 ## 🎓 Formação Acadêmica
 - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** pela **Anhanguera Educacional**  
-- Atualmente no **2º semestre**, período **noturno**  
+- Atualmente no **3º semestre**, período **noturno**  
 - Foco em disciplinas como **lógica de programação, algoritmos, banco de dados, programação orientada a objetos e engenharia de software**  
 
 ---
